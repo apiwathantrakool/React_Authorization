@@ -11,7 +11,7 @@ const initialState = {
         {
             userName: "user001",
             password: "123456",
-            roles: [ADMIN, CEO]
+            roles: [ADMIN, STAFF]
         },
         {
             userName: "user002",
