@@ -12,6 +12,7 @@ class home extends Component {
     return (
       <div>
         Home
+        <br/>
         {this.props.data}
       </div>
     )
