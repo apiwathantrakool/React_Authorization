@@ -69,7 +69,7 @@ class login extends Component {
       <div>
         <h5>
           {this.props.currentUser.userName}
-          <br />
+          <br /><br />
           <Button onClick={this.onLogout}>Logout</Button>
         </h5>
       </div>
