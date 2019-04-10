@@ -1,11 +1,12 @@
-  
-  import { 
-      ADMIN,
-      STAFF,
-      CEO 
+
+import {
+    ADMIN,
+    STAFF,
+    CEO
 } from "../../Util/roles";
-  
-  const initialState = {
+import { SET_CURRENT_USER } from "../Constants/user";
+
+const initialState = {
     userList: [
         {
             userName: "user001",
@@ -20,7 +21,7 @@
         {
             userName: "user003",
             password: "123456",
-            roles: [ADMIN, STAFF]
+            roles: [STAFF]
         },
         {
             userName: "user004",
@@ -28,12 +29,19 @@
             roles: [CEO]
         },
     ],
-  };
-  
-  export default function tableReducer(state = initialState, action) {
+    currentUser: null
+};
+
+export default function tableReducer(state = initialState, action) {
     switch (action.type) {
 
-      default:
-        return state;
+        case SET_CURRENT_USER:
+            return {
+                ...state,
+                currentUser: action.payload
+            };
+
+        default:
+            return state;
     }
-  }
+}
