@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
-import { Nav, NavItem, NavLink } from 'reactstrap';
-import { Link } from 'react-router-dom';
+import { Nav, NavItem, Button } from 'reactstrap';
+import { NavLink } from 'react-router-dom';
 
 class nav extends Component {
 
@@ -9,16 +9,24 @@ class nav extends Component {
             <div>
                 <Nav>
                     <NavItem>
-                        <NavLink><Link to="/">Home</Link></NavLink>
+                        <NavLink to="/">
+                            <Button outline color="info">Home</Button>
+                        </NavLink>
                     </NavItem>
                     <NavItem>
-                        <NavLink><Link to="/profile">Profile</Link></NavLink>
+                        <NavLink to="/profile">
+                            <Button outline color="info">Profile</Button>
+                        </NavLink>
                     </NavItem>
                     <NavItem>
-                        <NavLink><Link to="/user">UserList</Link></NavLink>
+                        <NavLink to="/user">
+                            <Button outline color="info">User List</Button>
+                        </NavLink>
                     </NavItem>
                     <NavItem>
-                        <NavLink><Link to="/login">Login</Link></NavLink>
+                        <NavLink to="/login">
+                            <Button outline color="info">Login</Button>
+                        </NavLink>
                     </NavItem>
                 </Nav>
             </div>
