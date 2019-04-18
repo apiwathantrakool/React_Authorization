@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://apiwathantrakool.github.io/React_Authorization",
+  "homepage": "https://apiwathantrakool.github.io/React_Authorization/",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "gh-pages": "^2.0.1",
