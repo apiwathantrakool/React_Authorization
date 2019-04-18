@@ -4,15 +4,15 @@ self.__precacheManifest = [
     "url": "/React_Authorization/static/js/runtime~main.ddf37aff.js"
   },
   {
-    "revision": "6141ae83bb92c970a3e9",
-    "url": "/React_Authorization/static/js/main.2fb3bf4a.chunk.js"
+    "revision": "bd9cc8cb5a6a8ed2635a",
+    "url": "/React_Authorization/static/js/main.48113509.chunk.js"
   },
   {
     "revision": "32928df91bea78d39775",
     "url": "/React_Authorization/static/js/2.a268852a.chunk.js"
   },
   {
-    "revision": "6141ae83bb92c970a3e9",
+    "revision": "bd9cc8cb5a6a8ed2635a",
     "url": "/React_Authorization/static/css/main.5778a36f.chunk.css"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/React_Authorization/static/css/2.78a97e69.chunk.css"
   },
   {
-    "revision": "b4c921f479c49d56d5c29844041ef4a8",
+    "revision": "22d9ae896332736103c9b2c7a6fd1479",
     "url": "/React_Authorization/index.html"
   }
 ];
