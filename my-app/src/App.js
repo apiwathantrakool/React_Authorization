@@ -7,13 +7,8 @@ import Login from "./Components/login";
 import Authorization from "./Components/authorization";
 import { ADMIN, STAFF, CEO } from "./Util/roles";
 import "./App.css";
-var screen = window.screen.orientation;
+
 class App extends Component {
-
-  componentDidMount(){
-    screen.lock("portrait-primary");
-  }
-
   render() {
     return (
       <div className="App">
