@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/React_Authorization/static/css/2.6d94c5c1.chunk.css"
   },
   {
-    "revision": "f0d78d3b8b41c16f740b1e8e9062b86f",
+    "revision": "5e718ce6d4328301d42c77e95f192814",
     "url": "/React_Authorization/index.html"
   }
 ];
