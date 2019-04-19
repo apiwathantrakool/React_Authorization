@@ -11,7 +11,7 @@ class home extends Component {
   render() {
     return (
       <div>
-        Home DEPLOY FOR NEKKY
+        Home DEPLOY FOR NEKKY 2
         <br/>
         {this.props.data}
       </div>
