@@ -1,15 +1,15 @@
 {
-  "main.css": "/React_Authorization/static/css/main.c78b8a0a.chunk.css",
-  "main.js": "/React_Authorization/static/js/main.c79bb4f1.chunk.js",
-  "main.js.map": "/React_Authorization/static/js/main.c79bb4f1.chunk.js.map",
+  "main.css": "/React_Authorization/static/css/main.edd92395.chunk.css",
+  "main.js": "/React_Authorization/static/js/main.69ebbf37.chunk.js",
+  "main.js.map": "/React_Authorization/static/js/main.69ebbf37.chunk.js.map",
   "runtime~main.js": "/React_Authorization/static/js/runtime~main.ddf37aff.js",
   "runtime~main.js.map": "/React_Authorization/static/js/runtime~main.ddf37aff.js.map",
   "static/css/2.6d94c5c1.chunk.css": "/React_Authorization/static/css/2.6d94c5c1.chunk.css",
-  "static/js/2.a268852a.chunk.js": "/React_Authorization/static/js/2.a268852a.chunk.js",
-  "static/js/2.a268852a.chunk.js.map": "/React_Authorization/static/js/2.a268852a.chunk.js.map",
+  "static/js/2.b40c74f4.chunk.js": "/React_Authorization/static/js/2.b40c74f4.chunk.js",
+  "static/js/2.b40c74f4.chunk.js.map": "/React_Authorization/static/js/2.b40c74f4.chunk.js.map",
   "index.html": "/React_Authorization/index.html",
-  "precache-manifest.9ee50dcefba70bdd5c4e60d044f86796.js": "/React_Authorization/precache-manifest.9ee50dcefba70bdd5c4e60d044f86796.js",
+  "precache-manifest.36762d9fea8f3f09aaae843899788223.js": "/React_Authorization/precache-manifest.36762d9fea8f3f09aaae843899788223.js",
   "service-worker.js": "/React_Authorization/service-worker.js",
   "static/css/2.6d94c5c1.chunk.css.map": "/React_Authorization/static/css/2.6d94c5c1.chunk.css.map",
-  "static/css/main.c78b8a0a.chunk.css.map": "/React_Authorization/static/css/main.c78b8a0a.chunk.css.map"
+  "static/css/main.edd92395.chunk.css.map": "/React_Authorization/static/css/main.edd92395.chunk.css.map"
 }
